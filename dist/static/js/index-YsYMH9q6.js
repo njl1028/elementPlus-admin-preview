@@ -1,0 +1,1 @@
+import{_ as s}from"./index-F_KMTIgB.js";import{o,J as t,L as a}from"./element-plus-isXO1GUe.js";const e={},n={class:"about"},r=[a("h4",null,"about",-1)];const u=s(e,[["render",function(s,a){return o(),t("div",n,r)}]]);export{u as default};
