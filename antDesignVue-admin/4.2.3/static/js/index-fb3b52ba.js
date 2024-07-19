@@ -1,0 +1,1 @@
+import{M as a}from"./MainPanel-06aca885.js";import{d as s,o as e,c as t,w as o,t as n}from"./ant-design-vue-b00fac33.js";import"./index-4aedd45a.js";const m=s({name:"HomePage"}),d=Object.assign(m,{setup:s=>(s,m)=>(e(),t(a,null,{default:o((()=>[n(" Home ")])),_:1}))});export{d as default};
